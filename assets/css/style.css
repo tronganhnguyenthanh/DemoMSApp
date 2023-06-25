@@ -1,0 +1,11 @@
+.form-control:focus{
+  box-shadow:none !important;
+}
+
+.bi.bi-type-bold{
+  font-size:20px;
+}
+
+.bi.bi-type-italic{
+  font-size:20px !important;
+}
